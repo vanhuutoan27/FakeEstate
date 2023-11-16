@@ -9,12 +9,12 @@ function Header() {
       <div className="h-container flexCenter paddings innerWidth">
         <img src="../images/logo.png" alt="logo" width={100} />
         <div className="h-menu flexCenter">
-          <Link to="">Residencies</Link>
-          <Link to="">Out Value</Link>
-          <Link to="">Contact Us</Link>
-          <Link to="">Get Started</Link>
+          <Link to="#!">Residencies</Link>
+          <Link to="#!">Out Value</Link>
+          <Link to="#!">Contact Us</Link>
+          <Link to="#!">Get Started</Link>
           <button className="btn">
-            <Link to="">Contact</Link>
+            <Link to="#!">Contact</Link>
           </button>
         </div>
       </div>
