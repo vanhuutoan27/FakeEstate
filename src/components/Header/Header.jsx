@@ -7,7 +7,7 @@ function Header() {
   return (
     <section className="h-wrapper">
       <div className="h-container flexCenter paddings innerWidth">
-        <img src="../public/images/logo.png" alt="logo" width={100} />
+        <img src="../images/logo.png" alt="logo" width={100} />
         <div className="h-menu flexCenter">
           <Link to="">Residencies</Link>
           <Link to="">Out Value</Link>
