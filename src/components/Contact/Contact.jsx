@@ -84,7 +84,7 @@ function Contact() {
         </div>
 
         {/* RIGHT SIDE */}
-        <div className="c-right">
+        <div className="c-right flexEnd">
           <div className="image-container">
             <img src="../images/contact.jpg" alt="contact" />
           </div>
